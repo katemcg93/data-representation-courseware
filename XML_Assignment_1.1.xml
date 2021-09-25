@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<book category="Technical">
+		<ISBN>1565922204</ISBN>
+		<Name>Advanced Perl Programming</Name>
+		<Author>Sriram Srinivasan</Author>
+		
+	</book>
+	<book category="Technical">
+		<ISBN>1565921178</ISBN>
+		<Name>Applying RCS and SCCS</Name>
+		<Author>Don Bolinger and Tan Bronson</Author>
+	</book>
+	<book category="Cookery">
+		<ISBN>1529014069</ISBN>
+		<Name>Pinch of Nom: 100 Slimming, Home-style Recipes</Name>
+		<Author>Kay Featherstone, Kate Allinson</Author>
+	</book>
+	<book category="Cookery">
+		<ISBN>1529016312</ISBN>
+		<Name>Joe's Family Food: 100 Delicious, Easy Recipes to Enjoy Together</Name>
+		<Author></Author>
+	</book>
+	
+</library>
